@@ -1,5 +1,5 @@
 # HttpSh 
-**remote execute scripts tool / 远程脚本执行工具**
+**Remote execute scripts tool / 远程脚本执行工具**
 
 ## Usage of HttpSh
 
